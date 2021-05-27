@@ -1,0 +1,28 @@
+body
+{
+background-size:cover ;
+background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+.OD1
+{
+   width: 100%; 
+   margin-top: 0px;
+   font-size: 25.5;
+}
+canvas
+{
+    box-shadow: 10px  10px  10px  gray;
+    border: 10px;
+    
+}
